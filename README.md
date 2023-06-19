@@ -1,6 +1,6 @@
-#A recipe website project from Odin Project
+# A recipe website project from Odin Project
 
-##The project will cover these topics.
+## The project will cover these topics.
 ### HTML structure
 * Charsets
 * Links
@@ -8,7 +8,7 @@
 * Headers
 * Images
 
-###Repository management via git/github
+### Repository management via git/github
 * Rebase
 * Merge
 * Commit messages
